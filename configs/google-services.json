@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877181085892",
+    "project_id": "purecaresa-c218f",
+    "storage_bucket": "purecaresa-c218f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877181085892:android:d0ccaf3b994d583c7a8191",
+        "android_client_info": {
+          "package_name": "com.purecaresa.digistacks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTeRBQdCjSHDbKuPD-97HdmRna1mFWoFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -60,7 +60,7 @@ dependencies:
   html_unescape: 2.0.0
   webview_flutter: 4.2.2
   webview_flutter_web: 0.2.2+1
-  # flutter_inappwebview: 5.7.2+3
+  flutter_inappwebview: 5.7.2+3
   responsive_builder: 0.7.0
 
   # HTML render
